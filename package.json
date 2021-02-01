@@ -11,7 +11,7 @@
     "lint": "eslint --ext .js,.mpx src/",
     "help": "node ./build/build.js --help"
   },
-  "author": "pagnkelly <xuweidong@didiglobal.com>",
+  "author": "pagnkelly <632228198@qq.com>",
   "license": "ISC",
   "dependencies": {
     "@mpxjs/api-proxy": "^2.5.10",
